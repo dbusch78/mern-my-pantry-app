@@ -1,0 +1,12 @@
+# dependencies
+node_modules
+my-pantry-backend/node_modules
+my-pantry-frontend/node_modules
+
+# environment variables
+my-pantry-backend/.env
+my-pantry-frontend/.env
+
+# build output
+my-pantry-backend/dist
+my-pantry-frontend/build
